@@ -1,4 +1,4 @@
-Gradient Descent (2000 iterasi, 0.01 learning rate):
+1. Gradient Descent (2000 iterasi, 0.01 learning rate):
 Iteration 0: a1=0.0090, a2=0.0108, a3=0.0118, b=0.0165, error=2.0589
 Iteration 100: a1=0.1596, a2=0.2148, a3=0.2527, b=0.4009, error=0.0325
 Iteration 200: a1=0.1243, a2=0.1927, a3=0.2511, b=0.4464, error=0.0209
@@ -32,7 +32,7 @@ Predicted value: 0.7640224510670957
 
 
 
-Steepest Descent (10 iterasi):
+2. Steepest Descent (10 iterasi):
 Iteration 0: Cost=0.6863000000, Optimal Learning Rate=0.2210
 
 Final Result:
